@@ -450,7 +450,7 @@ body {
   padding: 1rem 3rem;
   font-size: 1.7rem;
   color: #fff;
-  background-color: var(--primary);
+  background-color: blue;
   cursor: pointer;
 }
 
